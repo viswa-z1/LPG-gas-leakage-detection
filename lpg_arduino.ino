@@ -20,7 +20,7 @@ void loop()
 {
   data = analogRead(smokeS); 
   
-  Serial.print("Smoke: "); 
+  Serial.print("Gas Level :"); 
   Serial.println(data); 
  
   
