@@ -18,7 +18,11 @@ The device performs the following:
 Components Required :
 
 -> Arduino Uno
+
 -> GSM sim 900A Module
+
 -> MQ-9 Sensor
+
 -> Connecting Wires
+
 -> 12V power supply adapter
